@@ -1,0 +1,1 @@
+python train_classifier.py movie_reviews --instances paras --classifier NaiveBayes --ngrams 1 2 --show-most-informative 10 --fraction 0.75 --max_feats 10000 --min_score 3
